@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devfajar
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning PostgreSQL and Python
-- 💞️ I’m looking to collaborate on Python Project
+- 👀 I’m interested in Backend Project
+- 🌱 I’m currently learning SQL and Go
+- 💞️ I’m looking to collaborate on Backend Project
 - 📫 How to reach me fajartrengginas@gmail.com
 
 <!---
