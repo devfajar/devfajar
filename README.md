@@ -32,10 +32,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 22 mins    ███████████████▒░░░░░░░░░   60.94 %
-PHP          50 mins         █████████▒░░░░░░░░░░░░░░░   36.99 %
-HTML+PHP     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Markdown     1 hr 22 mins    █████████████████████████   99.52 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
