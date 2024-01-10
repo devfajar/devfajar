@@ -71,7 +71,7 @@ JSON             37 mins         █░░░░░░░░░░░░░░�
 
 [![Devfajar github stats](https://github-readme-stats.vercel.app/api?username=devfajar&theme=dark&background=000000)](https://github.com/devfajar/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devfajar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devfajar&layout=compact&theme=vision-friendly-dark)](https://github.com/devfajar/github-readme-stats)
 
 
 ### ⚡ Toolbelt
