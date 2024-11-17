@@ -23,8 +23,8 @@
   
   ### :man_technologist: About Me :
   - 👀 I’m a College Student and interested in Backend, API and Architectural Design.
-  - 🌱 I’m currently learning Golang And C++.
-  - :zap: In my free time, I solve problems on Hackerrank and read tech articles.
+  - 🌱 I’m currently learning Rust And C++.
+  - :zap: In my free time, I solve problems on LeetCode and read some tech articles.
   - 💞️ I’m looking to collaborate on Backend Project.
   - 📫 How to reach me fajartrengginas@gmail.com.
 
