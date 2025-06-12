@@ -31,18 +31,18 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 12 August 2019 - To: 11 June 2025
+From: 12 August 2019 - To: 12 June 2025
 
-Total Time: 3,060 hrs 30 mins
+Total Time: 3,063 hrs 14 mins
 
-PHP                    1,610 hrs 59 mins>>>>>>>>>>>>>------------   52.64 %
-HTML+PHP               394 hrs 22 mins >>>----------------------   12.89 %
+PHP                    1,611 hrs       >>>>>>>>>>>>>------------   52.59 %
+HTML+PHP               394 hrs 57 mins >>>----------------------   12.89 %
 Go                     182 hrs 10 mins >------------------------   05.95 %
-sh                     172 hrs 6 mins  >------------------------   05.62 %
+sh                     172 hrs 42 mins >------------------------   05.64 %
 HTTP Request           156 hrs 42 mins >------------------------   05.12 %
 Python                 147 hrs 19 mins >------------------------   04.81 %
 HTML                   83 hrs 30 mins  >------------------------   02.73 %
-JavaScript             43 hrs 46 mins  -------------------------   01.43 %
+JavaScript             44 hrs 43 mins  -------------------------   01.46 %
 CSS                    37 hrs 39 mins  -------------------------   01.23 %
 Markdown               36 hrs 22 mins  -------------------------   01.19 %
 ```
