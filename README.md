@@ -22,8 +22,8 @@
 </div>
   
   ### :man_technologist: About Me :
-  - 👀 I’m a College Student and interested in Backend, API and Architectural Design.
-  - 🌱 I’m currently learning Java And Data Structures
+  - 👀 I’m a Software Engineer that interested in Backend, API and Architectural Design.
+  - 🌱 I’m currently learning Go And System Design and Architecture
   - :zap: In my free time, I solve problems on LeetCode and read some tech articles.
   - 💞️ I’m looking to collaborate on Backend Project.
   - 📫 How to reach me fajartrengginas@gmail.com.
