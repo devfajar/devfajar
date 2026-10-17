@@ -31,7 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 12 August 2019 - To: 16 October 2026
+From: 12 August 2019 - To: 17 October 2026
 
 Total Time: 4,154 hrs 18 mins
 
